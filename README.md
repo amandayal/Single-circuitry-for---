@@ -1,1 +1,4 @@
-# Single-circuitry-for---
+# Single-circuitry-for-+ & -
+
+Software- Xilinx
+Language- Verilog
